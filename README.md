@@ -1,5 +1,5 @@
 # Source-Code-of-Thesis
-Based on KCF（Study on Monocular Vision Target Tracking Method in UUV Recycling）
+Based on KCF
 1. create a new folder named "data" and put your own files in it.
 2. change "base path" in the file "run_tracker.m" and "show_video.m".
 3. run the file "run_tracker.m" and choose your own file.
